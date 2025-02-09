@@ -48,6 +48,4 @@ O projeto **"Troca de Valores"** aborda conceitos fundamentais de programação 
 - **Eventos e Interatividade:** Aplicação do evento `Click` no botão para realizar a inversão dos valores informados pelo usuário, exemplificando a programação orientada a eventos.
 - **Estrutura Sequencial:** Execução linear de instruções para processar os dados inseridos nos campos de texto e exibir o resultado esperado.
 
-Esses conceitos são essenciais para iniciantes que desejam aprender sobre **.NET e desenvolvimento desktop**. Este projeto serve como base para aplicações mais complexas, ajudando a consolidar conhecimentos na plataforma.
-
 ---
