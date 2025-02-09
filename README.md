@@ -13,14 +13,6 @@ Este projeto foi desenvolvido como um exemplo prático durante o estudo do livro
 
 O objetivo principal da aplicação é demonstrar a troca de valores entre dois campos de entrada (**TextBoxes**). Ao informar dois valores e clicar no botão **"Trocar Valores"**, os dados dos campos são invertidos e exibidos novamente. Além disso, o projeto exemplifica o uso de propriedades básicas de controles visuais, eventos (como o evento `Click`) e configurações da interface gráfica.
 
-### Processo de Troca de Valores
-
-<div align="center">
-    <img src="/assets-git/troca-de-valores-1.png" width="300" alt="Valores informados pelo usuário">
-    <img src="/assets-git/troca-de-valores-2.png" width="300" alt="Valores após a troca">
-    <img src="/assets-git/msg-de-confirmação.png" width="300" alt="Mensagem de Confirmação">
-</div>
-
 ---
 
 ## 3. Funcionalidades
@@ -29,6 +21,14 @@ O objetivo principal da aplicação é demonstrar a troca de valores entre dois 
 ✅ Trocar os valores inseridos e exibi-los invertidos.  
 ✅ Demonstrar o uso de propriedades e eventos de controles no Windows Forms.  
 ✅ Configurar propriedades visuais, como tamanho, posição e comportamento dos controles.
+
+### Processo de Troca de Valores
+
+<div align="center">
+    <img src="/assets-git/troca-de-valores-1.png" width="300" alt="Valores informados pelo usuário">
+    <img src="/assets-git/troca-de-valores-2.png" width="300" alt="Valores após a troca">
+    <img src="/assets-git/msg-de-confirmação.png" width="300" alt="Mensagem de Confirmação">
+</div>
 
 ---
 
